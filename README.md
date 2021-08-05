@@ -1,16 +1,18 @@
-### Hi there 👋
+### ¡Hi there! I´m Andrea Castrillón 👋 Welcome to my GitHub profile
 
-<!--
-**Andrecast/Andrecast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about technology, I like things well done, a full-stack developer in the works.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Android with Klotin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My last published articles
+
+- [Recursion in a simple example](https://www.linkedin.com/pulse/recursion-simple-example-andrea-castrill%C3%B3n-puerta/)
+- [Step by step when you type "ls -l *.c"​ in shell](https://www.linkedin.com/pulse/step-when-you-type-ls-l-c-shell-andrea-castrill%C3%B3n-puerta/)
+- [Static Libraries in C](https://www.linkedin.com/pulse/static-libraries-c-andrea-castrill%C3%B3n-puerta/)
+- [C compilation process](https://www.linkedin.com/pulse/c-compilation-process-andrea-castrill%C3%B3n-puerta/)
+
+## You can find me in
+
+- [LinkedIn](https://www.linkedin.com/in/andrea-castrill%C3%B3n-puerta/)
+- [Twitter](https://twitter.com/la_tata93)
+- [Instagram](https://www.instagram.com/castrillonandre/)
