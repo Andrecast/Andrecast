@@ -1,4 +1,4 @@
-<img align="center"  src="https://www.canva.com/design/DAEmS0a6svg/share/preview?token=zeDJPW1d4iGCGmTED65kiA&role=EDITOR&utm_content=DAEmS0a6svg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"/>
+<img align="center"  src="Andre Castrillón.png"/>
 
 ```
 
