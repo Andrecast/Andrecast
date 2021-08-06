@@ -14,7 +14,7 @@
 
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=Andrecast&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Andrecast)
-<img align='right' src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="200">
 
 
 
