@@ -1,10 +1,22 @@
 <img src="https://github.com/Andrecast/Andrecast/blob/main/header.svg"/>
 
-I am passionate about technology, I like things well done, a full-stack developer in the works.
+
+
+
+## I am passionate about technology, I like things well done, a full-stack developer in the works, student at [Holberton School](https://www.holbertonschool.com/)
+
+
+
 
 - 🌱 I’m currently learning Android with Kotlin
 
+
+
+
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=Andrecast&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Andrecast)
+
+
+
 
 ## My last published articles
 
@@ -13,10 +25,10 @@ I am passionate about technology, I like things well done, a full-stack develope
 - [Static Libraries in C](https://www.linkedin.com/pulse/static-libraries-c-andrea-castrill%C3%B3n-puerta/)
 - [C compilation process](https://www.linkedin.com/pulse/c-compilation-process-andrea-castrill%C3%B3n-puerta/)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me </h3> <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="30">
 
 - [LinkedIn](https://www.linkedin.com/in/andrea-castrill%C3%B3n-puerta/)
 - [Twitter](https://twitter.com/la_tata93)
 - [Instagram](https://www.instagram.com/castrillonandre/)
 
-<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="30">
+
