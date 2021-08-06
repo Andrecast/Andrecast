@@ -1,8 +1,8 @@
-### ¡Hi there! I´m Andrea Castrillón 👋 Welcome to my GitHub profile
+<img src="https://github.com/Andrecast/Andrecast/blob/main/Header.css"/>
 
 I am passionate about technology, I like things well done, a full-stack developer in the works.
 
-- 🌱 I’m currently learning Android with Klotin
+- 🌱 I’m currently learning Android with Kotlin
 
 ## My last published articles
 
