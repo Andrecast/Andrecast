@@ -13,7 +13,7 @@
                 width: 100%;
                 height: 400px;
                 /* background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7); */
-                background: #d8bfd8;
+                background: #8fbc8f;
                 background-size: 600% 400%;
                 border-radius: 15px;
                 /* color: white; */
@@ -23,7 +23,7 @@
 
                 h1 {
                 text-align: justify;
-                color: #00ffff;
+                color: #9acd32;
                 font-size: 5em;
                 letter-spacing: 8px;
                 font-family: 'Dancing Script', cursive;	
@@ -214,9 +214,8 @@
                 }
 			</style>
 			<div class="container">
-                <h1>¡Hey there! I'm Andre Castrillón</h1>
-                <h1>¡Hey there! I'm Andre Castrillón</h1>
-                <h1>¡Hey there! I'm Andre Castrillón</h1>
+				<h1><p>¡Hey there!</p>
+					<p>I'm Andre Castrillón</p></h1>
             </div>
         </div>
 	</foreignObject>
