@@ -25,10 +25,10 @@
 - [Static Libraries in C](https://www.linkedin.com/pulse/static-libraries-c-andrea-castrill%C3%B3n-puerta/)
 - [C compilation process](https://www.linkedin.com/pulse/c-compilation-process-andrea-castrill%C3%B3n-puerta/)
 
-<h3> 🤝🏻 Connect with Me </h3> <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="30">
+## 🤝🏻 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/andrea-castrill%C3%B3n-puerta/)
 - [Twitter](https://twitter.com/la_tata93)
 - [Instagram](https://www.instagram.com/castrillonandre/)
 
-
+<img align='right' src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="230">
