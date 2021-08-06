@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="Andre Castrillón.png" /></div>
+<p align="center">
+  <img src="Andre Castrillón.png"/>
+</p>
 
 ```
 
