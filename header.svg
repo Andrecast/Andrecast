@@ -23,7 +23,7 @@
 
                 h1 {
                 text-align: center;
-                color: #8b008b;
+                color: #000000;
                 font-size: 5em;
                 letter-spacing: 8px;
                 font-family: 'Dancing Script', cursive;	
