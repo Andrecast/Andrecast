@@ -25,7 +25,7 @@
                 h1 {
                 text-align: center;
                 color: #20b2aa;
-                font-size: 5em;
+                font-size: 3em;
                 letter-spacing: 8px;
                 font-family: 'Dancing Script', cursive;	
                 font-weight: 400;
