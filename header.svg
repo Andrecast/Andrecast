@@ -22,8 +22,8 @@
 
 
                 h1 {
-                text-align: justify;
-                color: #9acd32;
+                text-align: center;
+                color: #8b008b;
                 font-size: 5em;
                 letter-spacing: 8px;
                 font-family: 'Dancing Script', cursive;	
