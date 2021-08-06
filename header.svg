@@ -14,7 +14,7 @@
                 height: 400px;
                 /* background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7); */
                 background: #808080;
-                background-size: 600% 400%;
+                background-size: 600% 250%;
                 border-radius: 15px;
                 /* color: white; */
                 text-align: justify;
@@ -23,7 +23,7 @@
 
                 h1 {
                 text-align: center;
-                color: #9acd32;
+                color: #8b008b;
                 font-size: 5em;
                 letter-spacing: 8px;
                 font-family: 'Dancing Script', cursive;	
