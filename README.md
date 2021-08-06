@@ -7,9 +7,9 @@
 
 
 
-
-- 🌱 I’m currently learning Android with Kotlin
 <img align='right' src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="350">
+- 🌱 I’m currently learning Android with Kotlin
+
 
 
 
