@@ -1,21 +1,13 @@
 <img src="https://github.com/Andrecast/Andrecast/blob/main/header.svg"/>
 
-
-
+```
 
 ## I am passionate about technology, I like things well done, a full-stack developer in the works, student at [Holberton School](https://www.holbertonschool.com/)
 
-
-
-<img align='right' src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="350">
+```
+<img align='right' src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="320">
 - 🌱 I’m currently learning Android with Kotlin
-
-
-
-
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=Andrecast&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Andrecast)
-
-
 
 ## My last published articles
 
