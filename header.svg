@@ -14,7 +14,7 @@
                 height: 300px;
                 /* background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7); */
                 background: #d8bfd8;
-		opacity: 0.5;
+		opacity: 0.8;
                 background-size: 600% 250%;
                 border-radius: 15px;
                 /* color: white; */
