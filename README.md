@@ -7,7 +7,6 @@
 I am passionate about technology, I like things well done, a full-stack developer in the works
 student at [Holberton School](https://www.holbertonschool.com/)
 
-- 🌱 I’m currently learning Android with Kotlin
 ```
 
 [![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=Andrecast&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Andrecast)  [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrecast&layout=compact&theme=merko&hide=["contribs","issues"])](https://github.com/Andrecast)
